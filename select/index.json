@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "りんごのうた",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:00:04.231563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_りんごのうた_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_りんごのうた_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ringo no Uta [りんごのうた]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/03_Ringo_no_Uta_[りんごのうた]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_りんごのうた_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "HARU NEMURI",
+      "has_synced": true,
+      "path": "select/05_りんごのうた_HARU_NEMURI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "りんごのうた <“第一回林檎班大会の模様”2005.12 代官山UNIT>",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/06_りんごのうた__“第一回林檎班大会の模様”2005.12_代官山UNIT_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "りんごのうた ／ \"第一回林檎班大会の模様\" 2005.12 代官山UNIT",
+      "artist": "Shiina, Ringo",
+      "has_synced": false,
+      "path": "select/07_りんごのうた____第一回林檎班大会の模様__2005.12_代官山UNIT_Shiina,_Ringo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_りんごのうた_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_りんごのうた_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "りんごのうた - A Song Of Apples",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/10_りんごのうた_-_A_Song_Of_Apples_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/11_りんごのうた_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "りんごのうた",
+      "artist": "harunemuri",
+      "has_synced": true,
+      "path": "select/12_りんごのうた_harunemuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎の唄",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_林檎の唄_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "りんごのうた",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_りんごのうた_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "リンゴの唄",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_リンゴの唄_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "りんごのうた",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_りんごのうた_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "リンゴのうた",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_リンゴのうた_東京事変.txt"
+    }
+  ]
+}
